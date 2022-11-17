@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    width: 25%;
+    height: 30%;
+    border-radius: 1rem;
+    border-color: black;
+    padding: 2rem;
+    box-shadow: 10em;
+    border-style: solid;
+    margin: 1%;
+}
+
+.speedometer-card{
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     
+      
+      
+        width: 2rem;
+        height: 2rem;
+      
+
+}

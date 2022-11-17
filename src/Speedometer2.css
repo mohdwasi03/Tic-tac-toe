@@ -1,0 +1,56 @@
+.dashboard{
+display: grid;
+grid-template-columns: repeat(2,0.011fr);
+gap:0px 0px;
+/*margin: 10px;*/
+justify-content: center;
+
+}
+
+
+
+
+.container{
+    display: grid;
+    width: 400px;
+    height: 300px;
+    box-shadow: 0 0 1px 0;
+    padding: 0.5rem 0 0rem 0;
+    border-radius: 0.5rem;
+    margin: 5rem 0rem 0 2rem;
+    
+  }
+  
+  .parent-row-column{
+    padding: 0.5rem 0 0 0.7rem;
+  }
+  .parent-container-row{
+    width: 7rem;
+    padding: 0 0 0 0;
+   
+    
+  }
+  
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+   
+   
+  }
+  
+  .parent-container-column{
+    width: 7rem;
+    height: 7rem;
+    
+    margin: 0.5rem;
+    
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    height: 5rem;
+    
+  }
+  

@@ -1,0 +1,22 @@
+
+
+.entry-page {
+    background-color: #0c1e43;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(30px + 2vmin);
+    color: rgb(121, 209, 14);
+  }
+  
+  .button {
+    background-color: #000207;
+    color: rgb(122, 125, 118);
+    font-size: 30px;
+    border: none;
+    
+    
+     
+  }
